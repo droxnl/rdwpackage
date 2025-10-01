@@ -1,6 +1,6 @@
 {
     "name": "droxnl/drox-rdw",
-    "license": "droxnl",
+    "license": "proprietary",
     "type": "package",
     "description": "Wrapper for the RDW OpenData API",
     "readme": "README.md",
