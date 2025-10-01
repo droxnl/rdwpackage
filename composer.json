@@ -1,0 +1,29 @@
+{
+    "name": "drox/drox-rdw",
+    "license": "drox",
+    "type": "package",
+    "description": "Wrapper for the RDW OpenData API",
+    "readme": "README.md",
+    "authors": [
+        {
+            "name": "Drox",
+            "email": "info@drox.nl",
+            "homepage": "https://drox.nl",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Drox\\Rdw\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Drox\\Rdw\\RdwServiceProvider"
+            ]
+        }
+    }
+}
