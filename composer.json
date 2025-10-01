@@ -1,12 +1,12 @@
 {
-    "name": "drox/drox-rdw",
-    "license": "drox",
+    "name": "droxnl/drox-rdw",
+    "license": "droxnl",
     "type": "package",
     "description": "Wrapper for the RDW OpenData API",
     "readme": "README.md",
     "authors": [
         {
-            "name": "Drox",
+            "name": "Drox NL",
             "email": "info@drox.nl",
             "homepage": "https://drox.nl",
             "role": "Developer"
