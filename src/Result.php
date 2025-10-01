@@ -1,6 +1,6 @@
 <?php
 
-namespace Drox\Rdw;
+namespace DroxNL\Rdw;
 
 use Illuminate\Support\Arr;
 

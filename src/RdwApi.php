@@ -1,11 +1,11 @@
 <?php
 
-namespace Drox\Rdw;
+namespace DroxNL\Rdw;
 
 use GuzzleHttp\Client;
-use Drox\Rdw\Exceptions\InvalidLicenseException;
-use Drox\Rdw\Exceptions\UnknownLicenseDataException;
-use Drox\Rdw\Exceptions\UnreachableEndpointException;
+use DroxNL\Rdw\Exceptions\InvalidLicenseException;
+use DroxNL\Rdw\Exceptions\UnknownLicenseDataException;
+use DroxNL\Rdw\Exceptions\UnreachableEndpointException;
 
 class RdwApi
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Drox\Rdw\Facades;
+namespace DroxNL\Rdw\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

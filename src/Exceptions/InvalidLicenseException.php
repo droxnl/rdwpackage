@@ -1,6 +1,6 @@
 <?php
 
-namespace Drox\Rdw\Exceptions;
+namespace DroxNL\Rdw\Exceptions;
 
 use Exception;
 

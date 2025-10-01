@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Drox\\Rdw\\": "src/"
+            "DroxNL\\Rdw\\": "src/"
         }
     },
     "extra": {
