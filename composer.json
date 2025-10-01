@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Drox\\Rdw\\RdwServiceProvider"
+                "DroxNL\\Rdw\\RdwServiceProvider"
             ]
         }
     }
